@@ -1,6 +1,9 @@
 <h1 align="center"> 🚀 Welcome to My GitHub | Lance David  </h1>
-<h3 align="left">I’m a passionate college student exploring the world of programming and technology. <br/>I enjoy experimenting with code, discovering new tools, and growing my knowledge every day.<br/> I believe technology can create significant change to the world, and I aim to contribute through impactful development.</h3>
+<div>
+<p align="left">I’m a passionate college student exploring the world of programming and technology. <br/>I enjoy experimenting with code, discovering new tools, and growing my knowledge every day.<br/> I believe technology can create significant change to the world, and I aim to contribute through impactful development.</p>
 
+<img src = ""></img>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/vernontatsumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lance ethan" height="30" width="40" /></a>
