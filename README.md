@@ -4,7 +4,7 @@
       <img src="https://raw.githubusercontent.com/LanceEthy/LanceEthy/refs/heads/main/image/ethy.jpg" alt="Lance David" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
     </td>
     <td width="70%" valign="top">
-      <h1 align="left">✨ Welcome to My GitHub | Lance David 🚀</h1>
+      <h1 align="left">Welcome to My GitHub | Lance David 🚀</h1>
       
   <p align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&width=435&lines=Passionate+Student+Developer;Backend+%7C+Web+%7C+Game+%7C+App+Dev;Always+Learning+%26+Exploring+🚀" alt="Typing SVG" />
