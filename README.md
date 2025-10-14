@@ -34,7 +34,7 @@
 ### 🚀 Projects
 This is where my projects will appear:
 
-- 🔧 [Project 1 - Coming Soon](#)
+-  <a href="https://docs.google.com/document/d/14x9SoE_-YU69KsWKY53eLB1wBW5vBFkkF_7uS91Bv-8/edit?tab=t.0" target="_blank">Lab Task 1</a>
 - 🎮 [Project 2 - Coming Soon](#)
 - 📱 [Project 3 - Coming Soon](#)
 
