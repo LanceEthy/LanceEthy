@@ -47,8 +47,8 @@ This is where my projects will appear:
 ---
 
 ### 🎉 Fun Facts About Me
-- 📚 I love reading **manhwa, manga, and manhua**.  
-- 🍳 I’m good at **cleaning and cooking**.  
+- 📚 I'm into books.  
+- ⚡ I'm bad at sports.  
 - ✋ I’m **left-handed**.  
 
 ---
