@@ -34,13 +34,13 @@
 ### 🚀 Projects
 This is where my projects will appear:
 
-- 🔧 Project 1 - <a href="https://docs.google.com/document/d/14x9SoE_-YU69KsWKY53eLB1wBW5vBFkkF_7uS91Bv-8/edit?tab=t.0" target="_blank"> Getting started with Python</a>
-- 🎮 Project 2 - <a href="https://docs.google.com/document/d/1tFkiLBe5rBbyOqJ1zc85iGY-R5CLsvf3khFNxHvpjbI/edit?tab=t.0"> Loop Construct</a>
-- 📱 Project 3 - <a href="https://docs.google.com/document/d/1tFkiLBe5rBbyOqJ1zc85iGY-R5CLsvf3khFNxHvpjbI/edit?tab=t.0"> Using List Collections</a>
-- 🧩 Project 4 - <a href="https://docs.google.com/document/d/1tFkiLBe5rBbyOqJ1zc85iGY-R5CLsvf3khFNxHvpjbI/edit?tab=t.0"> Practice Task using Collections</a>
-- 🪄 Project 5 - <a href="https://docs.google.com/document/d/1tFkiLBe5rBbyOqJ1zc85iGY-R5CLsvf3khFNxHvpjbI/edit?tab=t.0"> Using Dictionary Collections</a>
-- ⚡ Project 6 - <a href="https://docs.google.com/document/d/1tFkiLBe5rBbyOqJ1zc85iGY-R5CLsvf3khFNxHvpjbI/edit?tab=t.0"> Creating and Instantiating Classes</a>
-- 🧮 Project 7 - <a href="https://docs.google.com/document/d/1tFkiLBe5rBbyOqJ1zc85iGY-R5CLsvf3khFNxHvpjbI/edit?tab=t.0">Overloaded Consturctors</a>
+- 🔧 Project 1 - <a href="https://docs.google.com/document/d/17FpE2PDCDyI7NPzit94rxVsqnmGzsn99SCrQYHM47JA/edit?usp=sharing"> Getting started with Python</a>
+- 🎮 Project 2 - <a href="https://docs.google.com/document/d/19MisOIstDqbpXQ8nJjCkZLBa_yra_f09F1oXsETEIg0/edit?usp=sharing"> Loop Construct</a>
+- 📱 Project 3 - <a href=""> Using List Collections</a>
+- 🧩 Project 4 - <a href=""> Practice Task using Collections</a>
+- 🪄 Project 5 - <a href=""> Using Dictionary Collections</a>
+- ⚡ Project 6 - <a href=""> Creating and Instantiating Classes</a>
+- 🧮 Project 7 - <a href="">Overloaded Consturctors</a>
 
 
 
